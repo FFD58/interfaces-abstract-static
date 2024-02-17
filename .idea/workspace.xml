@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a1e13a1-e541-42fa-82c5-764979ceadd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task1/Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task1/Decoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task1/RussianLettersDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task1/RussianLettersDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task2/MorseCodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task2/MorseCodeDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task3/CharCodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task3/CharCodeDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/ConsoleTableWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/ConsoleTableWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/Row.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TableScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TableScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TableWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TableWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TextFileTableWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson1/task4/TextFileTableWriter.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a1e13a1-e541-42fa-82c5-764979ceadd8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,12 +41,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "V:/JavaProjects/InterfacesAbstractStatic/src/main/java/ru/fafurin/lesson1"
+    "last_opened_file_path": "V:/JavaProjects/InterfacesAbstractStatic/src/main/java/ru/fafurin/lesson2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\InterfacesAbstractStatic\src\main\java\ru\fafurin\lesson2" />
       <recent name="V:\JavaProjects\InterfacesAbstractStatic\src\main\java\ru\fafurin\lesson1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
