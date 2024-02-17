@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a1e13a1-e541-42fa-82c5-764979ceadd8" name="Changes" comment="" />
+    <list default="true" id="2a1e13a1-e541-42fa-82c5-764979ceadd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,7 @@
       <recent name="V:\JavaProjects\InterfacesAbstractStatic\src\main\java\ru\fafurin\lesson1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson6" />
       <recent name="ru.fafurin.lesson2" />
     </key>
   </component>
